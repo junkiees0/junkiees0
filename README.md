@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm a software development student
+https://roadmap.sh/projects/single-page-cv
 
 
 ## 🌐 Socials:
